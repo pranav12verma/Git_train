@@ -1,4 +1,10 @@
 Hello World
 Goals-
 World Peace
+<<<<<<< HEAD
 jai shree ram
+=======
+
+pranav bhadwa h
+
+>>>>>>> e6389a2998f9a6c44eb19c1fd9672fa1bae0095f
