@@ -1,5 +1,8 @@
 Hello World
 Goals-
 World Peace
+<<<<<<< HEAD
 created a branch (Kratagya)
-branch 2 edits 
+jai shree ram
+branch2 edits
+
